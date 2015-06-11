@@ -1,4 +1,5 @@
 Si llegaste hasta acá, entonces ya sabés:
+
 - cómo escribir un programa (`program`)
 - cómo poner y sacar bolitas, usando `Poner` y `Sacar`
 - cómo desplazar el cabezal por el tablero, usando `Mover`
