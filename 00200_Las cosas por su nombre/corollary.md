@@ -1,0 +1,1 @@
+Probablemente te estés preguntando ¿cómo supo la computadora lo que tenía que hacer `DibujarCuadradoNegroDeLado3`?, ¿qué es eso de `procedure`?. Vamos al siguiente ejercicio entonces.
