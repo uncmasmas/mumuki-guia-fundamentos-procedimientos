@@ -3,6 +3,6 @@ expectations:
 - binding: program
   inspection: HasBinding
 - binding: Poner3Verdes
-  inspection: HasBinding
+  inspection: Not:HasBinding
 - binding: program
   inspection: HasUsage:Poner3Verdes
