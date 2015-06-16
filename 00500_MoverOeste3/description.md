@@ -1,1 +1,0 @@
-Ahora te toca a vos: escribí un procedimiento llamado `MoverOeste3` que desplace el cabezal 3 veces hacia el Oeste y un programa que lo **use**.

@@ -1,3 +1,7 @@
+check_head_position: true
+
+subject: MoverOeste3
+
 examples:
  - initial_board: |
      GBB/1.0

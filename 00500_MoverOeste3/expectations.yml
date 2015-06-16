@@ -1,8 +1,0 @@
----
-expectations:
-- binding: program
-  inspection: HasBinding
-- binding: MoverOeste3
-  inspection: HasBinding
-- binding: program
-  inspection: HasUsage:MoverOeste3
