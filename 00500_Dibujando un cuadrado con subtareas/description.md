@@ -8,6 +8,6 @@ Algunas posibles respuestas:
 
 En los siguientes ejercicios, vamos a escribir una versión mejorada de `DibujarCuadradoNegroDeLado3`, dividiendo cada una de las **subtareas** en procedimientos.
 
-> Para empezar, escribí un procedimiento `MoverOeste3` que, como su nombre lo indica, mueva el cabezal 3 veces hacia el Oeste. 
+> Para empezar, escribí un procedimiento `MoverOeste2` que, como su nombre lo indica, mueva el cabezal 2 veces hacia el Oeste. 
 
 **Nota:** De ahora en más, salvo que se indique lo contrario, el `program` te lo damos nosotros. Así que sólo tenés que escribir el procedimiento.

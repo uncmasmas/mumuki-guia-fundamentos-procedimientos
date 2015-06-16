@@ -1,5 +1,5 @@
 expectations:
 - binding: program
   inspection: Not:HasBinding
-- binding: MoverOeste3
+- binding: MoverOeste2
   inspection: HasBinding

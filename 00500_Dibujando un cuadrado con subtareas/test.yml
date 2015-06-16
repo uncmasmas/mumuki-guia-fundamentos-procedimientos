@@ -1,6 +1,6 @@
 check_head_position: true
 
-subject: MoverOeste3
+subject: MoverOeste2
 
 examples:
  - initial_board: |
@@ -10,4 +10,4 @@ examples:
    final_board: |
      GBB/1.0
      size 5 2
-     head 1 0
+     head 2 0
