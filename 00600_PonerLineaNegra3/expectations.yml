@@ -1,0 +1,7 @@
+expectations:
+- binding: program
+  inspection: Not:HasBinding
+- binding: DibujarLineaNegra3
+  inspection: HasBinding
+- binding: DibujarLineaNegra3
+  inspection: HasUsage:MoverOeste2
