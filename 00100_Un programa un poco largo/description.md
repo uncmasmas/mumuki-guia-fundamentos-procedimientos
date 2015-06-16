@@ -22,4 +22,4 @@ program {
 }
 ```
 
-Cuando lo descubras -o te rindas- copiá y pegá el código en el editor y envialo.
+> Cuando lo descubras -o te rindas- copiá y pegá el código en el editor y envialo.
