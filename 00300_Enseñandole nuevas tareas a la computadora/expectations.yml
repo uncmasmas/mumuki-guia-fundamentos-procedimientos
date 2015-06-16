@@ -1,4 +1,5 @@
----
+check_head_position: true
+
 expectations:
 - binding: program
   inspection: HasBinding
