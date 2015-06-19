@@ -1,0 +1,7 @@
+expectations:
+- binding: program
+  inspection: Not:HasBinding
+- binding: DibujarCuadradoNegroDeLado3
+  inspection: HasBinding
+- binding: DibujarCuadradoNegroDeLado3
+  inspection: HasUsage:DibujarLineaNegra3

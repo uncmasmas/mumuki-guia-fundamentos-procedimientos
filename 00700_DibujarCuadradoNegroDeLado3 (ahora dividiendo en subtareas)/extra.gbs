@@ -1,0 +1,13 @@
+procedure MoverOeste2() {
+	Mover(Oeste)
+	Mover(Oeste)
+}
+
+procedure DibujarLineaNegra3() {
+	Poner(Negro)
+	Mover(Este)
+	Poner(Negro)
+	Mover(Este)
+	Poner(Negro)
+	MoverOeste2()
+}
