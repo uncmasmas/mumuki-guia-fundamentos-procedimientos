@@ -1,0 +1,3 @@
+¿Viste cómo ayudó que `DibujarLineaNegra3` dejara el cabezal en la celda inicial? Esa es un poco la magia de **dividir en subtareas**, nos ocupamos de un problema a la vez y luego sólo tenemos que combinar las pequeñas tareas para resolver nuestro objetivo.
+
+Probablemente te estés preguntando: ¿y qué pasa si quiero hacer un cuadrado rojo o verde? ¿tengo que escribir todo esto de vuelta? Intentaremos dar respuesta a esto en los próximos ejercicios.
