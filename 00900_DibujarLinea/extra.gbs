@@ -1,0 +1,4 @@
+procedure MoverOeste2() {
+	Mover(Oeste)
+	Mover(Oeste)
+}
