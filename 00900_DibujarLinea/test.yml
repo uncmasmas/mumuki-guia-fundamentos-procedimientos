@@ -3,7 +3,7 @@ check_head_position: true
 subject: DibujarLinea3
 
 examples:
- - parameters:
+ - arguments:
     - Azul
    initial_board: |
      GBB/1.0
@@ -16,7 +16,7 @@ examples:
      cell 1 0 Azul 1
      cell 2 0 Azul 1
      head 0 0
- - parameters:
+ - arguments:
     - Negro
    initial_board: |
      GBB/1.0
@@ -29,7 +29,7 @@ examples:
      cell 1 0 Negro 1
      cell 2 0 Negro 1
      head 0 0
- - parameters:
+ - arguments:
     - Rojo
    initial_board: |
      GBB/1.0
@@ -42,7 +42,7 @@ examples:
      cell 1 0 Rojo 1
      cell 2 0 Rojo 1
      head 0 0
- - parameters:
+ - arguments:
     - Verde
    initial_board: |
      GBB/1.0
