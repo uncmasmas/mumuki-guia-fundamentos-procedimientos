@@ -1,6 +1,7 @@
 ¿Y para qué creamos procedimientos entonces?
 
 Algunas posibles respuestas:
+
 - para **simplificar código**, escribiendo en un solo lugar cosas que vamos a querer hacer muchas veces
 - para **escribir menos**, porque los programadores somos un poco vagos
 - para que su **significado sea mejor entendido por humanos**, como vimos en el ejemplo de `DibujarCuadradoNegroDeLado3`. Para esto es fundamental **pensar buenos nombres**, que no sean muy largos (`DibujarUnCuadradoNegroDe3DeAnchoY3DeLargo`), ni demasiado cortos (`DibCuadNeg3`), y sobre todo que **dejen en claro qué efecto produce nuestro procedimiento**
