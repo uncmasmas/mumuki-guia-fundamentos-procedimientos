@@ -17,4 +17,5 @@ procedure DibujarLinea3(color, direccion) {
 (Para simplificar la explicación, por ahora vamos a olvidarnos de la posición final del cabezal. Ya volveremos con eso en las siguientes guías.)
 
 > Tu tarea es ahora escribir un `program` que use la nueva versión de `DibujarLinea3` (no tenés que escribirla, sólo usarla) y dibuje un cuadrado multicolor como este:
-> 
+
+![Cuadrado multicolor](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-2-procedimientos/master/4x4h00cuadrado-multicolor.png)
