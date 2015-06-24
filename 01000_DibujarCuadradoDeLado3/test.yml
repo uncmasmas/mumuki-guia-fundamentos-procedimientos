@@ -19,7 +19,7 @@ examples:
      cell 2 0 Negro 1
      cell 2 1 Negro 1
      cell 2 2 Negro 1
-     head 2 2
+     head 0 2
  - arguments:
     - Azul
    initial_board: |
@@ -38,7 +38,7 @@ examples:
      cell 2 0 Azul 1
      cell 2 1 Azul 1
      cell 2 2 Azul 1
-     head 2 2
+     head 0 2
  - arguments:
     - Rojo
    initial_board: |
@@ -57,7 +57,7 @@ examples:
      cell 2 0 Rojo 1
      cell 2 1 Rojo 1
      cell 2 2 Rojo 1
-     head 2 2
+     head 0 2
  - arguments:
     - Verde
    initial_board: |
@@ -76,4 +76,4 @@ examples:
      cell 2 0 Verde 1
      cell 2 1 Verde 1
      cell 2 2 Verde 1
-     head 2 2
+     head 0 2

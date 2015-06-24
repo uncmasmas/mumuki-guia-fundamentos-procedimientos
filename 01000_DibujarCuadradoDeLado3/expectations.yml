@@ -5,5 +5,3 @@ expectations:
   inspection: HasBinding
 - binding: DibujarCuadradoDeLado3
   inspection: HasUsage:DibujarLinea3
-- binding: DibujarCuadradoDeLado3
-  inspection: HasUsage:MoverOeste2  
