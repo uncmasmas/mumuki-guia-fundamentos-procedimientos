@@ -20,7 +20,7 @@ examples:
      cell 2 1 Negro 1
      cell 2 2 Negro 1
      head 2 2
-  - arguments:
+ - arguments:
     - Azul
    initial_board: |
      GBB/1.0
@@ -39,7 +39,7 @@ examples:
      cell 2 1 Azul 1
      cell 2 2 Azul 1
      head 2 2
-  - arguments:
+ - arguments:
     - Rojo
    initial_board: |
      GBB/1.0
@@ -58,7 +58,7 @@ examples:
      cell 2 1 Rojo 1
      cell 2 2 Rojo 1
      head 2 2
-  - arguments:
+ - arguments:
     - Verde
    initial_board: |
      GBB/1.0
