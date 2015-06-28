@@ -2,7 +2,7 @@
 expectations:
 - binding: program
   inspection: HasBinding
-- binding: Poner3Verdes
-  inspection: Not:HasBinding
+- binding: Poner3Rojas
+  inspection: HasBinding
 - binding: program
-  inspection: HasUsage:Poner3Verdes
+  inspection: HasUsage:Poner3Rojas

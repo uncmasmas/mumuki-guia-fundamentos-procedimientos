@@ -1,4 +1,3 @@
-Resumiendo, en lo que a un procedimiento respecta, se pueden distinguir dos momentos:
+En Gobstones, como en muchos otros lenguajes, los nombres se escriben siguiendo el estilo [CamelCase](http://es.wikipedia.org/wiki/CamelCase), es decir: sin espacios ni signos de puntuación y usando una mayúscula para cada palabra (si conocés Twitter, probablemente te habrás dado cuenta que los hashtags usan esta misma convención). 
 
-- la **definición**, que es cuando ponemos `procedure Poner3Verdes()`. Esto se hace **una vez sola** en todo el programa (y va a fallar si intentamos hacerlo dos veces).
-- el **uso** o **invocación**, que es cuando escribimos `Poner3Verdes()` en alguna parte de nuestro programa o de otro procedimiento, ¡todas las veces que quieras!
+Algunos ejemplos válidos: `DibujarCuadrado()`, `Sacar10Bolitas()`, `LlenarTableroDeBolitasRojas()`.
