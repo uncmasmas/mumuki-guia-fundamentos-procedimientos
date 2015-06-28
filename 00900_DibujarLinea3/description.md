@@ -1,6 +1,5 @@
-Si estuviste atento en el ejercicio anterior, verás que tuvimos que cambiar algunas cosas para que `Poner3Verdes` sirva para cualquier color:
+Si estuviste atento en el ejercicio anterior, verás que tuvimos que cambiar algunas cosas para que `Poner3Verdes` sirva para cualquier color.
 
-- **Avisarle a la computadora que el procedimiento está incompleto**, tiene un _agujero_, y que quien lo use **debe** llenar ese _agujero_ con algún **valor**. Eso lo hicimos agregando la palabra `color` entre los paréntesis que hasta ahora siempre habíamos puesto vacíos. Podríamos haber escrito `c`, `col` o incluso `pepe` en vez de `color`, porque a la computadora no le importa el nombre que le demos a las cosas... pero a nosotros sí (y mucho), así que por eso elegimos usar nombres que expresen bien lo que queremos decir.
-- **Cambiarle el nombre al procedimiento**, porque ahora serviría para cualquier color. Si bien esto no es estrictamente necesario para la computadora, es super importante para los humanos que van a leer y escribir el código. Imaginate si le dejaramos el mismo nombre, luego al usarlo quedaría por ejemplo `Poner3Verdes(Rojo)` y no es obvio qué es lo que hace (¿pone 3 verdes y 3 rojas? ¿pone sólo verdes o rojas?).
+La más importante: **avisarle a la computadora que el procedimiento está incompleto**, tiene un _agujero_, y que quien lo use **debe** llenar ese _agujero_ con algún **valor**. Eso lo hicimos agregando la palabra `color` entre los paréntesis que hasta ahora siempre habíamos puesto vacíos.
 
 > Tu turno: basándote en `DibujarLineaNegra3`, escribí un procedimiento `DibujarLinea3` que reciba un color y dibuje una línea de ese color. Nosotros nos vamos a encargar de usarlo con cada uno de los colores.
