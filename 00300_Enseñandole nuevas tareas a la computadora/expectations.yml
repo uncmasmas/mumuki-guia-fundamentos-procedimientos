@@ -1,6 +1,4 @@
 expectations:
-- binding: program
-  inspection: HasBinding
 - binding: Poner3Verdes
   inspection: HasBinding
 - binding: program

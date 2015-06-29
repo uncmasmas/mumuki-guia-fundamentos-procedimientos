@@ -1,6 +1,4 @@
 expectations:
-- binding: program
-  inspection: HasBinding
 - binding: DibujarLinea3
   inspection: Not:HasBinding
 - binding: program

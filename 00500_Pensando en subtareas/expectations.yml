@@ -1,5 +1,0 @@
-expectations:
-- binding: program
-  inspection: Not:HasBinding
-- binding: MoverOeste2
-  inspection: HasBinding

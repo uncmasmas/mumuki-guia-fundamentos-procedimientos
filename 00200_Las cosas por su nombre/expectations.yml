@@ -1,7 +1,5 @@
 ---
 expectations:
-- binding: program
-  inspection: HasBinding
 - binding: DibujarCuadradoNegroDeLado3
   inspection: HasBinding
 - binding: program
