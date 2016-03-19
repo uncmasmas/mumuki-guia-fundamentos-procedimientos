@@ -1,1 +1,1 @@
-Acordate que los procedimientos se definen una vez sola, y `Poner3Verdes` ya lo definiste en uno de los ejercicios anteriores. Así que acá simplente tenés que usarlo :smile:
+Acordate que los procedimientos se definen una vez sola, y `Poner3Verdes` ya lo definiste en uno de los ejercicios anteriores. Así que acá simplente tenés que usarlo. :smile:
