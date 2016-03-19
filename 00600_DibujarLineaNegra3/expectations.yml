@@ -1,3 +1,4 @@
+---
 expectations:
 - binding: DibujarLineaNegra3
   inspection: HasUsage:MoverOeste2

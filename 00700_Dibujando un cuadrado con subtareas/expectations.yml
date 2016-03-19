@@ -1,3 +1,4 @@
+---
 expectations:
 - binding: DibujarCuadradoNegroDeLado3
   inspection: HasUsage:DibujarLineaNegra3

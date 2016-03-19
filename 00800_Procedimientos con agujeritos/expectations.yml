@@ -1,3 +1,4 @@
+---
 expectations:
 - binding: Poner3
   inspection: HasBinding

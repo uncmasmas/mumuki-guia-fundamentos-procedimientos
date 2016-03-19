@@ -1,3 +1,4 @@
+---
 expectations:
 - binding: DibujarCuadradoDeLado3
   inspection: HasArity:1

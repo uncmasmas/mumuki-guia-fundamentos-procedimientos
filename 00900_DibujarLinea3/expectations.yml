@@ -1,3 +1,4 @@
+---
 expectations:
 - binding: DibujarLinea3
   inspection: HasArity:1
