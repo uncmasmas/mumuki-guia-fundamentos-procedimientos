@@ -1,1 +1,1 @@
-Hagamos entonces el último pasito: definí un procedimiento `DibujarCuadradoDeLado3`, que reciba un `color` y dibuje un cuadrado de 3x3 de ese color.
+Hagamos entonces el último pasito: usando `DibujarLinea3`, definí un procedimiento `DibujarCuadradoDeLado3`, que reciba un `color` y dibuje un cuadrado de 3x3 de ese color.
