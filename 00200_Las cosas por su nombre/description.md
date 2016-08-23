@@ -26,6 +26,6 @@ program {
 }
 ```
 
-¿Mucho más fácil de entender, no? 
+Mucho más fácil de entender, ¿no?
 
-> Copialo en el editor y envialo, así estamos seguros de que hace exactamente lo mismo que el anterior.
+> Copialo en el editor y envialo, así nos aseguramos de que hace exactamente lo mismo que el anterior.
