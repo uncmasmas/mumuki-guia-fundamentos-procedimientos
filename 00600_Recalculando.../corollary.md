@@ -1,0 +1,3 @@
+Fijate qué interesante lo que acabás de hacer: definiste un procedimiento (`DibujarLineaNegra3`) basándote en otro (`VolverAtras`). Como te dijimos, los procedimientos definen nuevos comandos que luego pueden utilizarse en cualquier lado, como por ejemplo dentro de la definición de otro procedimiento.
+
+Una pequeña muestra del gran poder que nos da la programación, podemos construir nuestras propias herramientas y utilizarlas una y otra vez para resolver problemas más complejos.

@@ -1,4 +1,4 @@
-procedure MoverOeste2() {
+procedure VolverAtras() {
 	Mover(Oeste)
 	Mover(Oeste)
 }
