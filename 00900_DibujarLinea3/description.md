@@ -4,4 +4,4 @@ La más importante: **avisarle a la computadora que el procedimiento está incom
 
 > Tu turno: basándote en `DibujarLineaNegra3`, escribí un procedimiento `DibujarLinea3` que reciba un color y dibuje una línea de ese color. Acordate que el cabezal debe terminar donde empezó.
 
-Nosotros nos vamos a encargar de usarlo con cada uno de los colores.
+Nosotros nos vamos a encargar de escribir los `program`s para usarlo con cada uno de los colores.
