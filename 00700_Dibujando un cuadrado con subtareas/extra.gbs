@@ -1,4 +1,4 @@
-procedure MoverOeste2() {
+procedure VolverAtras() {
 	Mover(Oeste)
 	Mover(Oeste)
 }
@@ -9,5 +9,5 @@ procedure DibujarLineaNegra3() {
 	Poner(Negro)
 	Mover(Este)
 	Poner(Negro)
-	MoverOeste2()
+	VolverAtras()
 }
