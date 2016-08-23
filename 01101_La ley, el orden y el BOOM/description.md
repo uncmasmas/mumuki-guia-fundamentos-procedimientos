@@ -1,3 +1,3 @@
-Recién te decíamos que el orden en qué pasabamos los **argumentos** era importante... pero no queremos quitarte la posibilidad de hacer las cosas mal a propósito para ver qué pasa - después de todo, esa es la parte más divertida de todo esto. :stuck_out_tongue:
+Recién te decíamos que el orden en que pasabamos los **argumentos** era importante, pero nunca te dijimos por qué...
 
 > Experimentalo: escribí un programa cualquiera que use `DibujarLinea`, pero esta vez intentá usarlo con los argumentos invertidos (primero la dirección y luego el color).
