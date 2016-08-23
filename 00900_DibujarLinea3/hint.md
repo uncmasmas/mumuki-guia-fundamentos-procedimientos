@@ -1,12 +1,1 @@
-Acá tenés el código de `DibujarLineaNegra3` para usar como referencia:
-
-```puppet
-procedure DibujarLineaNegra3() {
-  Poner(Negro)
-  Mover(Este)
-  Poner(Negro)
-  Mover(Este)
-  Poner(Negro)
-  MoverOeste2()
-}
-```
+Si no sabés cómo empezar, copiá lo que hiciste para `DibujarLineaNegra3` y modificá las partes que hablen de `Negro`.
