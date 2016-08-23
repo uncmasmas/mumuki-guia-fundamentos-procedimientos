@@ -1,1 +1,0 @@
-Una vez que consigas dibujar la línea, vas a tener que encargarte de que el cabezal vuelva donde estaba al principio... ¿servirá para algo el procedimiento `MoverOeste2` que creaste antes?
