@@ -4,6 +4,5 @@ layout: editor_bottom
 type: problem
 extra_visible: false
 language: 
-teacher_info: 'Perfecto, ya tenemos nuestra línea, pero hay un inconveniente: el cabezal
-  nos quedó en una posición incómoda para dibujar la siguiente línea...'
+teacher_info: ''
 manual_evaluation: false
