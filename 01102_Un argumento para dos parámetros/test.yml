@@ -1,0 +1,9 @@
+check_head_position: true
+
+examples:
+ - title: '¡BOOM!'
+   initial_board: |
+     GBB/1.0
+     size 3 3
+     head 0 0
+   error: wrong_arguments_quantity
