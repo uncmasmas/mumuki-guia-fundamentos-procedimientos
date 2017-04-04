@@ -8,3 +8,5 @@ Como te imaginarás, con estas 3 cosas ya podés resolver muchos problemas: [dib
 
 ¿No nos creés?
 ¡Acompañanos al primer ejercicio!
+
+hola linsura como es que hlmmhasd;kjjhasdkjbadkmfkbam,bsdg;kjasd;vkkjhzcc;v,mbsdoihwqeerjasdofuhasdfjhbas;kdjfhas;kdjfh;aksjdfha;skdjbf;aksjbdfaksdbfkajsdbf;kjasdbdf;kjasbdf;kjasbdo;fjhaswdio;fhwouiefhiwu;bf;kjWEDBFOW2Ehfohf;ojwfk;jaskdbfuwdbfkjsdbfkjsadbfkjasbfckwbfjsbdfkjasd fjlasd  fsadjh foihasdg fousdgfgasdo fsdofg sidgfisda gfasdgfklsadgf ksadl flsdakh fglahsd fglsdh fghalsdh fgshdf gsadhfgsdajhlgf ljhsd fglsjhda fglhsdhgf lsh jd gfljhsdgfljhs dfg sadhfg jshd gfjlhsad gflhsdagfljawe fiuuwyri u24guwfiuagf whe gfiuwete fiu;we gfuiwt eif waf;iu g
