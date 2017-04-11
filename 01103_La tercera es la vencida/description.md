@@ -10,4 +10,4 @@ mientras que `Triada(Azul, Verde, Rojo)` haría esto otro:
 
 ![triada-avr](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-procedimientos/master/images/triada-avr.png)
 
-> Implementá el procedimiento `Triada`.
+> Implementá el procedimiento `Triada`, que tiene que tomar 3 parámetros. 
