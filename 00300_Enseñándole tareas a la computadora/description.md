@@ -1,4 +1,4 @@
-Como introdujimos brevemente con el ejemplo del cuadrado, podemos empezar a diferenciar dos tipos de comandos dentro de un programa:
+Como introdujimos con el ejemplo del cuadrado, podemos empezar a diferenciar dos tipos de comandos dentro de un programa:
 
 - los que **vienen definidos por el lenguaje** y nos sirven para expresar operaciones básicas, como `Mover`, `Poner` y `Sacar`. A estos los llamaremos **comandos primitivos**, o simplemente **primitivas**;
 - y los que **definimos nosotros**, que nos sirven para expresar tareas más complejas. Como el nombre de esta lección sugiere, estos son los **procedimientos**.
