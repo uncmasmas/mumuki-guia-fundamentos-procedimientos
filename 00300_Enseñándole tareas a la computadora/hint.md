@@ -1,27 +1,12 @@
-Si no sabés cómo empezar, copiá el código del ejercicio anterior y modificá las partes que creas necesarias:
+Si no sabés cómo empezar, podés copiar éste código como punto de partida:
 
 ```gobstones
-procedure DibujarCuadradoNegroDeLado3() {
-  Poner(Negro)
-  Mover(Este)
-  Poner(Negro)
-  Mover(Este)
-  Poner(Negro)
-  Mover(Norte)
-  Poner(Negro)
-  Mover(Oeste)
-  Poner(Negro)
-  Mover(Oeste)
-  Poner(Negro)
-  Mover(Norte)
-  Poner(Negro)
-  Mover(Este)
-  Poner(Negro)
-  Mover(Este)
-  Poner(Negro)    
+procedure Poner3Verdes() {
+  //...completar...   
 }
 
 program {
-  DibujarCuadradoNegroDeLado3()   
+  Poner3Verdes()   
 }
+
 ```
