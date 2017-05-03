@@ -6,7 +6,7 @@ Una vez más, te vamos a contar la respuesta nosotros (pero sólo por un ratito)
 
 > Copiá y pega el siguiente código en el editor y vas a ver que funciona como esperarías:
 
-```puppet
+```gobstones
 procedure Poner3(color) {
   Poner(color)
   Poner(color)

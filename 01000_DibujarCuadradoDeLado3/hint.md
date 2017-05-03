@@ -1,6 +1,6 @@
 Acá tenés el código de `DibujarCuadradoNegroDeLado3` para usar como referencia:
 
-```puppet
+```gobstones
 procedure DibujarCuadradoNegroDeLado3() {
   DibujarLineaNegra3()    
   Mover(Norte)

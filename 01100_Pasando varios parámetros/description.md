@@ -4,7 +4,7 @@ Por ejemplo: ¿qué pasaría si ahora queremos que `DibujarLinea3` sirva para di
 
 ¿Y cómo se hace esto? Muy fácil, al igual que como hacemos al escribir, vamos a **separar cada parámetro usando comas**. Mirá cómo queda:
 
-```puppet
+```gobstones
 procedure DibujarLinea3(color, direccion) {
   Poner(color)
   Mover(direccion)
