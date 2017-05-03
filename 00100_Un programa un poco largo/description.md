@@ -1,6 +1,6 @@
 Tomate unos minutos (no más de 3) para tratar de descubrir qué es lo que dibuja el siguiente programa:
 
-```puppet
+```gobstones
 program {
   Poner(Negro)
   Mover(Este)
