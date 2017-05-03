@@ -5,4 +5,4 @@ Como introdujimos brevemente con el ejemplo del cuadrado, podemos empezar a dife
 
 Cuando creamos un procedimiento estamos "enseñándole" a la computadora a realizar una tarea nueva, que originalmente no estaba incluida en el lenguaje. Sería imposible escribir un lenguaje que traiga _TODO_ lo que se nos pueda ocurrir hacer, ¿no?. 
 
-> Ahora es tu turno: escribí un procedimiento `Poner3Verdes` que ponga 3 bolitas y verdes y un `program` que lo use.
+> Ahora es tu turno: escribí un procedimiento `Poner3Verdes` que ponga 3 bolitas verdes en la **celda actual** y un `program` que lo use.
