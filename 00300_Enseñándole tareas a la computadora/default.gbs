@@ -1,0 +1,7 @@
+procedure Poner3Verdes() {
+  //...completar...   
+}
+
+program {
+  Poner3Verdes()   
+}
