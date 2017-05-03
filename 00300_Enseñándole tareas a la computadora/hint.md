@@ -1,6 +1,6 @@
 Si no sabés cómo empezar, copiá el código del ejercicio anterior y modificá las partes que creas necesarias:
 
-```puppet
+```gobstones
 procedure DibujarCuadradoNegroDeLado3() {
   Poner(Negro)
   Mover(Este)
