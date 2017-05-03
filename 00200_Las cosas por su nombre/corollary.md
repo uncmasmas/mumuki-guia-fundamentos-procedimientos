@@ -1,1 +1,3 @@
-Probablemente te estés preguntando ¿cómo supo la computadora lo que tenía que hacer `DibujarCuadradoNegroDeLado3`?, ¿qué es eso de `procedure`? Vamos al siguiente ejercicio entonces.
+:thought_balloon: Probablemente te estés preguntando _¿cómo supo la computadora lo que tenía que hacer_ `DibujarCuadradoNegroDeLado3`_?_, _¿qué es eso de_`procedure`_?_ 
+
+Vamos entonces al siguiente ejercicio...
