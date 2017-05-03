@@ -1,4 +1,4 @@
-Si no sabés cómo empezar, podés copiar éste código como punto de partida:
+Si no sabés cómo empezar, podés copiar y ppegar el siguiente código y usarlo como punto de partida:
 
 ```gobstones
 procedure Poner3Verdes() {
