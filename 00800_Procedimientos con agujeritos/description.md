@@ -21,5 +21,5 @@ program {
 }
 ```
 
-> Copiá y pega los códigos anteriores en el editor y vas a ver que funciona como esperarías.
+> Copiá y pega los códigos anteriores en el editor y fijate qué pasa. 
 
