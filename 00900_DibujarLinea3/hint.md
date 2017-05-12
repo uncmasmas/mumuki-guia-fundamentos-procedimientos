@@ -1,1 +1,0 @@
-Si no sabés cómo empezar, copiá lo que hiciste para `DibujarLineaNegra3` y modificá las partes que hablen de `Negro`.
