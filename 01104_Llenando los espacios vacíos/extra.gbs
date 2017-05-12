@@ -1,0 +1,5 @@
+procedure Poner3(color) {
+  Poner(color)
+  Poner(color)
+  Poner(color)
+}
