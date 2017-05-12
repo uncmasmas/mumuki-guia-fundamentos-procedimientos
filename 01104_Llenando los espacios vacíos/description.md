@@ -44,5 +44,5 @@ Poner(Rojo)
 
 Notá como cada vez que aparece `color`, este es reemplazado por el valor que pasamos en la invocación. 
 
-> Veamos si se va entendiendo: escribí un programa que ponga tres boltas verdes usando `Poner3`
+> Veamos si se va entendiendo: escribí un programa que ponga tres bolitas verdes usando `Poner3`
 
