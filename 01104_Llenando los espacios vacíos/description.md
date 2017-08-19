@@ -1,6 +1,6 @@
 Entendamos qué acabamos hacer :hushed:.
 
-Primero, declaramos un procedimiento, pero con una pequeña diferencia: toma un _parámetro_, llamado `color`.
+Lo primero que hicimos fue declarar un procedimiento, pero con una pequeña diferencia: toma un _parámetro_, llamado `color`.
 
 ```gobstones
 procedure Poner3(color) {
