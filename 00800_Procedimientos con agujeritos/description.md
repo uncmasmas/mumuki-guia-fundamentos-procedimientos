@@ -2,7 +2,7 @@
 
 ¡Por supuesto que **no**! ¡La programación se trata de automatizar tareas repetitivas! :smile:
 
-Empecemos con algo fácil: supongamos que queremos **generalizar** el procedimiento `Poner3Verdes`, para que funcione con cualquier color que querramos (pero uno solo por vez). Lo que necesitamos es agregarle al procedimiento una especie de _agujero_...
+Empecemos con algo fácil: supongamos que queremos **generalizar** el procedimiento `Poner3Verdes`, para que funcione con cualquier color que queramos (pero uno solo por vez). Lo que necesitamos es agregarle al procedimiento una especie de _agujero_...
 
 ```gobstones
 procedure Poner3(color) {
@@ -21,5 +21,5 @@ program {
 }
 ```
 
-> Copiá y pega los códigos anteriores en el editor y fijate qué pasa. 
+> Escribí los códigos anteriores en el editor y fijate qué pasa. 
 
